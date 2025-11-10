@@ -120,9 +120,9 @@ Room Occupancy Detection is a machine learning-based project designed to determi
 -Smart City Infrastructure
 
 **Project Link**
-```
+***
 https://www.getyourprojectdone.in/projects/Room-Occupancy-Detection
-```
+***
 ## Pima Indian Diabetes Prediction Using Data Science
 ## Overview
 
